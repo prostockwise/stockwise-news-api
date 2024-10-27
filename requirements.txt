@@ -1,0 +1,10 @@
+requests==2.32.3
+openai==1.42.0
+loguru==0.7.2
+pydantic==2.8.2
+pydantic-settings==2.6.0
+tenacity==9.0.0
+fastapi==0.115.3
+uvicorn==0.32.0
+pytz==2024.2
+pytest
